@@ -1,5 +1,5 @@
 From ubuntu:latest
-Run apt-get update
+Run apt-get update \
 && apt-get -y upgrade \
 && apt-get install mc \
 && apt-get install python3 \
